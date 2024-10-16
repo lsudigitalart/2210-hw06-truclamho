@@ -63,7 +63,7 @@ function setup() {
         let imgIndex = mainImageNames.indexOf(selectedMainImages[i]);
         if (imgIndex !== -1) {
             //size
-            let randomSize = random(300, 600); 
+            let randomSize = random(200, 500); 
             image(mainImages[imgIndex], positions[i].x, positions[i].y, randomSize, randomSize);
         }
     }
