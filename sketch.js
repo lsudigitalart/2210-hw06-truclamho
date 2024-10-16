@@ -1,4 +1,4 @@
-let originalSentence = "Beware; for I am fearless, and therefore powerful.";
+// let originalSentence = "Beware; for I am fearless, and therefore powerful.";
 let randomizeSentence = "";
 let fontChoice = ["Luxurious Script", "Playwrite England SemiJoined", "Creepster", "Butcherman", "Londrina Sketch", "Cute Font"];
 let backgroundImageNames = ["Books.png","ocean.png", "forest.png", "Library.png", "Picture.png", "ship.png", "Journal.gif", "Statue.png", "white.png", "Skull.png", "painting.png", "Typewriter.png"];
